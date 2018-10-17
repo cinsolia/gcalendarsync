@@ -1,0 +1,23 @@
+{
+  "name": "gcalendarsync",
+  "version": "1.0.0",
+  "description": "Apps Script for syncing a Google Spreadsheet with Google Calendar. Two commands are added in a \"Calendar Sync\" menu. One copies events from a calendar into a spreadsheet. The other commands goes in the opposite direction, spreadsheet to calendar.",
+  "main": "gcalendarsync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinsolia/gcalendarsync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinsolia/gcalendarsync/issues"
+  },
+  "homepage": "https://github.com/cinsolia/gcalendarsync#readme",
+  "dependencies": {
+    "gas-local": "^1.3.1"
+  }
+}
