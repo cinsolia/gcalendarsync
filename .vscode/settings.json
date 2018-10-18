@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\bash.exe",
+    "git.ignoreLimitWarning": true
+}
